@@ -1,0 +1,12 @@
+nav {
+	height: 50px;
+	text-align: center;
+}
+nav a {
+	margin: 0 20px;
+	line-height: 50px;
+}
+.mapDiv {
+	height: 400px;
+	background-color: lightgrey;
+}
